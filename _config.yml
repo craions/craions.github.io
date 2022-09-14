@@ -1,6 +1,6 @@
 name: My New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+description: Blogging about stuff
+meta_description: "My New Jekyll Site, Blogging about stuff"
 
 markdown: kramdown
 highlighter: rouge
