@@ -3,6 +3,7 @@ description: Blogging about stuff
 meta_description: "My New Jekyll Site, Blogging about stuff"
 
 markdown: kramdown
+remote_theme: rosario/kasper
 highlighter: rouge
 logo: false
 paginate: 15
